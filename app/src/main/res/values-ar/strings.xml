@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"اسمك "</string>
+    <string name="edit_text" translatable="false">من فضلك ادخل اسمك</string>
+    <string name="Button">تم</string>
+</resources>

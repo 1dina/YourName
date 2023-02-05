@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Your Name</string>
+    <string name="edit_text">Please enter your name</string>
+    <string name="Button">Done</string>
+</resources>
